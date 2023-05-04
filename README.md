@@ -26,6 +26,10 @@ functionality. The code for this mBed is contained in the folder bt_knock.
 - Lock/Unlock via bluetooth
 - Lock/Unlock via websocket
 
+Watch the demo on youtube:
+
+[<img src="https://img.youtube.com/vi/mMZ7KekosEs/maxresdefault.jpg" width="50%">](https://youtu.be/mMZ7KekosEs)
+
 ## Components
 - [TTL GT-511C3 Fingerprint Scanner](https://developer.mbed.org/users/beanmachine44/notebook/fingerprint-scanner1/) 
 - [LSM9DS1 IMU](https://developer.mbed.org/components/LSM9DS1-IMU/)
@@ -66,7 +70,3 @@ p9||SDA|||
 p10||SCL|||
 p21|||control||
 p8||||p21|
-
-Watch the demo on youtube:
-
-[<img src="https://img.youtube.com/vi/mMZ7KekosEs/maxresdefault.jpg" width="50%">](https://youtu.be/mMZ7KekosEs)

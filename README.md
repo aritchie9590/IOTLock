@@ -53,17 +53,18 @@ gnd|||throw2||
 p21||||p8|
 
 ### mBed 2
-|mBed 2|Bluefruit|IMU|Servo|mBed 1|
-|gnd|gnd||||
-|Vu (5V)|Vin||||
-|p14 (Serial RX)|TXO||||
-|p13 (Serial TX)|RXI||||
-|gnd|CTS||||
-|gnd||gnd|||
-|Vout (3.3V)||VDD|||
-|p9||SDA|||
-|p10||SCL|||
-|p21|||control||
-|p8||||p21|
+mBed 2|Bluefruit|IMU|Servo|mBed 1
+:---:|:---:|:---:|:---:|:---:
+gnd|gnd||||
+Vu (5V)|Vin||||
+p14 (Serial RX)|TXO||||
+p13 (Serial TX)|RXI||||
+gnd|CTS||||
+gnd||gnd|||
+Vout (3.3V)||VDD|||
+p9||SDA|||
+p10||SCL|||
+p21|||control||
+p8||||p21|
 
 [<img src="https://img.youtube.com/vi/mMZ7KekosEs/maxresdefault.jpg" width="50%">](https://youtu.be/mMZ7KekosEs)

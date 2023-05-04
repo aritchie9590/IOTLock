@@ -35,21 +35,22 @@ functionality. The code for this mBed is contained in the folder bt_knock.
 
 ## Wiring
 ### mBed 1
-|mbed 1|WiFly|TTL GT-511C3|SPDT switch|mbed 2|
-|gnd|gnd||||
-|Vout(3.3V)|VDD_3V3||||
-|p9|UART_RX||||
-|p10|UART_TX||||
-|p26|GPIO6||||
-|p19|reset||||
-|Vout(3.3V)||VCC|||
-|gnd||gnd|||
-|p28||RX|||
-|p27||TX|||
-|p22|||pole||
-|Vout (3V)|||throw1||
-|gnd|||throw2||
-|p21||||p8|
+mbed 1|WiFly|TTL GT-511C3|SPDT switch|mbed 2
+:---:|:---:|:---:|:---:|:---:
+gnd|gnd||||
+Vout(3.3V)|VDD_3V3||||
+p9|UART_RX||||
+p10|UART_TX||||
+p26|GPIO6||||
+p19|reset||||
+Vout(3.3V)||VCC|||
+gnd||gnd|||
+p28||RX|||
+p27||TX|||
+p22|||pole||
+Vout (3V)|||throw1||
+gnd|||throw2||
+p21||||p8|
 
 ### mBed 2
 |mBed 2|Bluefruit|IMU|Servo|mBed 1|

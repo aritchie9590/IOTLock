@@ -1,7 +1,7 @@
 # IOTLock
 
 ## Team
-- *Alex Ritchie*
+- **Alex Ritchie**
 - Bao Bui
 - Erik Lomas
 - Trung Nguyen
@@ -67,4 +67,5 @@ p10||SCL|||
 p21|||control||
 p8||||p21|
 
+Watch the demo on youtube:
 [<img src="https://img.youtube.com/vi/mMZ7KekosEs/maxresdefault.jpg" width="50%">](https://youtu.be/mMZ7KekosEs)

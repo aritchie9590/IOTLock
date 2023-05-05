@@ -1,10 +1,5 @@
 # IOTLock
-
-## Team
-- **Alex Ritchie**
-- Bao Bui
-- Erik Lomas
-- Trung Nguyen
+A prototype IOT Lock that locks and unlocks via fingerprint, user defined "secret knock", bluetooth, and websocket.
 
 ## Overview 
 
@@ -16,7 +11,9 @@ The first mBed (mBed 1) communicates with the wiFly module and the TTL GT-511C3
 to hand the websocket and fingerprint scanner functionality. The code for this
 mBed is contained in the folder fp_web. The second mBed (mBed 2) communicates
 with the Bluefruit module and the IMU to handle the bluetooth and secret knock
-functionality. The code for this mBed is contained in the folder bt_knock. 
+functionality. The code for this mBed is contained in the folder bt_knock.
+
+This project was completed in conjunction with team members Bao Bui, Erik Lomas, and Trung Nguyen as part of a course project at Georgia Tech.
 
 ## Features 
 - Lock/Unlock via fingerprint scanner

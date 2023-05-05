@@ -38,6 +38,9 @@ Watch the demo on youtube:
 - [mBed LPC1768](https://os.mbed.com/platforms/mbed-LPC1768/) (x2)
 
 ## Wiring
+
+![Wiring Diagram](wiring_diagram.png)
+
 ### mBed 1
 mbed 1|WiFly|TTL GT-511C3|SPDT switch|mbed 2
 :---:|:---:|:---:|:---:|:---:
